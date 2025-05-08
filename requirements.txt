@@ -4,4 +4,4 @@ Pillow
 numpy
 requests
 torch
-
+opencv-python
